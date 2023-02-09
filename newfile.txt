@@ -1,1 +1,2 @@
-This file contains textThis file contains text
+This file contains text.
+Check the new changes of file.
