@@ -1,3 +1,3 @@
 # PracticalGit
 Learning Git
-Testing merge command
+Testing merge command - changes in main branch 
